@@ -1,0 +1,4 @@
+X=int(input("Enter the value of integer: "))
+Y=float(input("Enter the value of 
+
+
